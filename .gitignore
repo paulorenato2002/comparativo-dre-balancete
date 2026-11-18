@@ -150,3 +150,12 @@ __marimo__/
 
 # Excel temporary files
 ~$*.xlsx
+
+# Planilha de cliente (balancete, DRE, relatorio de inconsistencia) - nao versionar
+*.xls
+*.xlsx
+NOV/
+outputs/
+
+# Repo proprio, tem remote separado
+balancetexdre/
